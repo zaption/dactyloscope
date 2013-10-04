@@ -1,0 +1,37 @@
+{
+  "name": "dactyloscope",
+  "version": "0.0.1",
+  "description": "Dead-simple asset fingerprinting.",
+  "keywords": [
+    "asset",
+    "fingerprint",
+    "static",
+    "middleware",
+    "express",
+    "dust"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zaption/dactyloscope.git"
+  },
+  "bugs": {
+    "url": "http://github.com/zaption/dactyloscope/issues"
+  },
+  "author": {
+    "name": "Zaption, Inc.",
+    "email": "charlie@zaption.com",
+    "url": "http://www.zaption.com/"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib",
+  "dependencies": {},
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "readmeFilename": "README.md"
+}
