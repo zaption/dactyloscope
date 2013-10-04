@@ -1,13 +1,14 @@
 {
   "name": "dactyloscope",
-  "version": "0.1.0",
-  "description": "Dead-simple asset fingerprinting.",
+  "version": "0.1.1",
+  "description": "Dead-simple asset fingerprinting for Express.js.",
   "keywords": [
     "asset",
     "fingerprint",
     "static",
     "middleware",
     "express",
+    "connect",
     "dust"
   ],
   "repository": {
